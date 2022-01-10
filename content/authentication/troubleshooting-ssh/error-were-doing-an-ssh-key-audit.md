@@ -1,4 +1,4 @@
----
+08:46:83:ff:f6:c4:f8:a9:4e:68:6b:94:17:f2:46---
 title: 'Error: We''re doing an SSH key audit'
 intro: This error means the SSH key you're using to perform a Git operation is unverified.
 redirect_from:
